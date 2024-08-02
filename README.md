@@ -35,6 +35,7 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 - Comunicação: Boa comunicação verbal e escrita.
 - Organização: Capacidade de gerenciar e organizar tarefas.
 - Trabalho em Equipe: Experiência colaborativa em projetos escolares e voluntariado.
+- Markend de produtos para venda
 
 ---
 
