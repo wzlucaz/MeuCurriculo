@@ -39,22 +39,27 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 ---
 
-### 📢 Informações Adicionais sobres as minhas Habilidades:
+### 💻​ Requisitos Técnicos:
 - HTML, CSS, JavaScript: Intermediário;
 
-- Front-end e Back-end: Intermediário;
+- Node, Nodemon: Intermediário;
+
+- Noção de Front-end e Back-end em Node: Intermediário;
 
 - Familiaridade com Git e GitHub;
 
 - Figma: Intermediário;
-
-- Node, Nodemon: Intermediário;
 
 - Canva: Intermediário;
 
 - Cabeamento de cabos de rede;
 
 - Sistemas Operacionais e Levantamento de Requisitos;
+
+
+---
+
+### 📢 Informações Adicionais:
 
 - Idiomas:
 Inglês: Intermediário;
