@@ -26,7 +26,7 @@ Escola SENAI 914 - S. Paschoal Crepaldi - Presidente Purdente/São Paulo
 - **concluídos:** Curso de Informática Básica;
 Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; LGPD.
 
-- **cursando:** Técnico em Desenvolvimento de Sistemas (01/12/23); Inglês Legacy Education.
+- **cursando:** Técnico em Desenvolvimento de Sistemas (01/12/23); Inglês Legacy Education; HTML, CSS, JavaScript; Front-end e Back-end.
 
 ---
 
@@ -41,6 +41,8 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 ### 📢 Informações Adicionais:
 - HTML, CSS, JavaScript: Intermediário;
+
+- Front-end e Back-end: Intermediário;
 
 - Familiaridade com Git e GitHub;
 
