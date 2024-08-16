@@ -46,13 +46,15 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 - Figma: Intermediário;
 
+- Node, Nodemon: Intermediário;
+
 - Canva: Intermediário;
 
 - Cabeamento de cabos de rede;
 
 - Sistemas Operacionais e Levantamento de Requisitos;
 
-- Idiomas
+- Idiomas:
 Inglês: Intermediário;
 
 - Esportes: Prática de basquete e natação;
