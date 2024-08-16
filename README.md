@@ -39,7 +39,7 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 ---
 
-### 📢 Informações Adicionais:
+### 📢 Informações Adicionais sobres as minhas Habilidades:
 - HTML, CSS, JavaScript: Intermediário;
 
 - Front-end e Back-end: Intermediário;
