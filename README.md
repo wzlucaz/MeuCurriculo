@@ -40,6 +40,12 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 ---
 
 ### 📢 Informações Adicionais:
+- HTML, CSS, JavaScript: Intermediário;
+
+- Familiaridade com Git e GitHub;
+
+- Figma: Intermediário;
+
 - Canva: Intermediário;
 
 - Cabeamento de cabos de rede;
