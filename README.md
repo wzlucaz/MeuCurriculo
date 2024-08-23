@@ -61,9 +61,6 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 ### 📢 Informações Adicionais:
 
-- Idiomas:
-Inglês: Intermediário;
-
 - Esportes: Prática de basquete e natação;
 
 - Disponibilidade para trabalhar em horário integral ou meio período.
