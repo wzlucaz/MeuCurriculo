@@ -48,7 +48,7 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 - Familiaridade com Git e GitHub;
 
-- Figma: Intermediário;
+- Figma: Basico;
 
 - Canva: Intermediário;
 
