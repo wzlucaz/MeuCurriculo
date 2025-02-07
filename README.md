@@ -2,9 +2,9 @@
 
 Idade: 16 |
 Av. x |
-018 99999-9999 | 
+018 981188329 | 
 LinkedIn: xxx | 
-Email: xxx
+Email: santossilvalucasgabriel3@gmail.com
 
 
 
