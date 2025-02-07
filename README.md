@@ -36,7 +36,7 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 - Organização: Capacidade de gerenciar e organizar tarefas.
 - Trabalho em Equipe: Experiência colaborativa em projetos escolares e voluntariado.
 - Markend de produtos para venda
-
+- Generosidade : Um cuidado a mais com as pessoas
 ---
 
 ### 💻​ Requisitos Técnicos:
