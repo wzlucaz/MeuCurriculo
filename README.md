@@ -15,6 +15,7 @@ Busco minha primeira oportunidade de emprego, com o objetivo de aplicar e desenv
 ### 📚 Educação:
 
 - Ensino Médio Incompleto.
+- Desenvolvimento de Sistemas 2/2
 
 Escola Sesi Antônio Scalon 423 – Presidente Prudente/São Paulo
 
@@ -26,7 +27,7 @@ Escola SENAI 914 - S. Paschoal Crepaldi - Presidente Purdente/São Paulo
 - **concluídos:** Curso de Informática Básica;
 Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; LGPD.
 
-- **cursando:** Técnico em Desenvolvimento de Sistemas (01/12/23); Inglês Legacy Education; HTML, CSS, JavaScript; Front-end e Back-end.
+- **cursando:** Técnico em Desenvolvimento de Sistemas (01/12/24) Dispositivos Móveis, HTML, CSS, JavaScript; Front-end e Back-end.
 
 ---
 
@@ -48,6 +49,8 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 - Familiaridade com Git e GitHub;
 
+- Dispositivos Móveis;
+
 - Figma: Basico;
 
 - Canva: Intermediário;
@@ -63,7 +66,7 @@ Pacote Office: Word, Excel, PowerPoint; Soluções Integradas com IoT; Python; L
 
 - Esportes: Prática de basquete e natação;
 
-- Disponibilidade para trabalhar em horário integral ou meio período.
+- Disponibilidade para trabalhar em horário noturno ou meio período.
 Interesse em cursos e treinamentos que possam contribuir para o meu desenvolvimento profissional.
 
 
