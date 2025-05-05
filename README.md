@@ -1,8 +1,8 @@
 # Lucas Gabriel Santos Silva
 
-Idade: 16 |
+Idade: 17 |
 Av. x |
-018 981188329 | 
+018 981865889 | 
 LinkedIn: xxx | 
 Email: santossilvalucasgabriel3@gmail.com
 
